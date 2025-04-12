@@ -1,0 +1,6 @@
+images/*
+video.mp4
+output_video_recognized.mp4
+new-video.mp4
+output_video.mp4
+venv*
