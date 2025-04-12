@@ -1,6 +1,6 @@
-# Audio, Video, and Text Analysis
+# Python facial expression recognition
 
-A Python project for analyzing audio, video, and text data.
+A Python project for analyzing facial expressions on videos.
 
 ## Setup
 
